@@ -1,0 +1,42 @@
+body{
+font-family: Arial;
+}
+h1{
+text-align: center;
+}
+h2{
+text-align: left;
+}
+th{
+background: blue;
+}
+.box{
+display: flex;
+justify-content: space-between
+}
+img{
+display: block
+margin-left: auto
+margin-right: auto
+}
+.caption{
+text-align: left
+color: green
+}
+rect{
+fill: red
+stroke: black
+}
+circle{
+fill: blue
+opacity: 0.5
+}
+rect:hover{
+fill: green
+}
+circle:hover{
+stroke: black
+}
+h3{
+text-align: center
+}
